@@ -202,5 +202,5 @@ const pText = styled.p`
   background: blue;
 `;
  
-<p>This is my text</p>
+<p>This is my textss</p>
 
